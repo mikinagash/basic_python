@@ -11,7 +11,7 @@
 #     if num % 2 == 1:
 #         print(num, "number not even ")
 
-#3.1
+#3
 # x = int(input("enter number:"))
 # while x < 20:
 #      if x % 2 == 1:
